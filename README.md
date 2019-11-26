@@ -1,2 +1,2 @@
 # ChittiBOT
-A chatbot for medical industry
+A chatbot for simple interactions
